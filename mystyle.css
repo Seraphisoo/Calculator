@@ -1,0 +1,38 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  text-align: center;
+  font-size: 70px;
+  margin-top: 20px;
+  color: cadetblue;
+}
+hr {
+  background-color: darkgreen;
+  height: 5px;
+}
+#display {
+  width: 370px;
+  height: 60px;
+  text-align: center;
+  background-color: whitesmoke;
+  color: cadetblue;
+  padding-right: 20px;
+}
+input {
+  width: 70px;
+  height: 50px;
+  font-size: 40px;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: royalblue;
+  color: #fff;
+  border-style: none;
+  text-align: center;
+}
+.symbol {
+  background-color: darkcyan;
+}
+#buttonc {
+  background-color: saddlebrown;
+}
